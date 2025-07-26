@@ -2,7 +2,7 @@
 # /// script
 # requires-python = "==3.13"
 # dependencies = [
-#     "ibis-framework[duckdb,sqlite]",
+#     "ibis-framework[bigquery,duckdb,postgres,sqlite]",
 #     "ipython",
 #     "pandas",
 #     "plotly",
